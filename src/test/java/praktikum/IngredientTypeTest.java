@@ -12,7 +12,7 @@ import static org.junit.Assert.assertEquals;
 public class IngredientTypeTest {
 
     private final String name = "Fish";
-    private final float price = 10.0F;
+    private final float price = 10F;
     private final IngredientType type;
 
     public IngredientTypeTest(IngredientType type) {
